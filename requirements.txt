@@ -1,0 +1,9 @@
+ipywidgets
+pandas
+seaborn
+gensim
+bs4
+
+# These get used, but should maybe be installed manually or just cloned and linked.
+# -e git://github.com/gaulinmp/pyedgar.git
+# -e git://github.com/gaulinmp/panda_cub.git
